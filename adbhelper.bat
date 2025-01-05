@@ -6,6 +6,10 @@ if not exist "files\fistrun.conf" (
 echo make sure to enable adb on the device before continuing
 echo learn more at
 echo https://shorturl.at/GAiPz
+echo.
+echo by the way you navigate with arrow keys
+echo and enter
+echo.
 pause
 
 echo. >"files\fistrun.conf"
