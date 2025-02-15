@@ -1,5 +1,5 @@
 @echo off
-set selekshn=0
+set selekshn=1
 set version=1.0.0
 
 if not exist "fistrun.conf" (
