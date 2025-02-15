@@ -4,7 +4,9 @@ you can move with arrows inside the app
 
 # Quick Start guide:
 
-method 1: download it from releases
+method 1: [download it from releases](https://github.com/frdomains/ADBHelper/releases/download/v1.0.1/adbhelper.exe)
+
+
 
 method 2: execute 
 ```dos
